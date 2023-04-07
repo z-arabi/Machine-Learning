@@ -12,3 +12,4 @@ All of the concepts of machine learning is coded here.
 8. Clustering
 9. Dimension Reduction
 10. Genetic Algorithm
+11 .
