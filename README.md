@@ -14,4 +14,4 @@ All of the concepts of machine learning is coded here.
 10. Genetic Algorithm  
 11. SOM  
 12. Hopfield  
-13. Naive Bayesian  
+13. Naive Bayesian    
