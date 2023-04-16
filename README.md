@@ -12,4 +12,6 @@ All of the concepts of machine learning is coded here.
 8. Clustering
 9. Dimension Reduction
 10. Genetic Algorithm  
-11. SOM
+11. SOM  
+12. Hopfield  
+13. Naive Bayesian  
