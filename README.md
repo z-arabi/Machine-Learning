@@ -1,5 +1,5 @@
 # Machine-Learning
-All of the concepts of machine learning is coded here.
+All of the concepts of machine learning are coded here.
 
 ## Agenda
 1. Linear Regression 
